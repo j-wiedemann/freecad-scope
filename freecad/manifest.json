@@ -1,0 +1,15 @@
+{
+    "name": "freecad.jonathan-wiedemann",
+    "description": "Youtube chanels and playlists talking about FreeCAD",
+    "framework": "ubuntu-sdk-14.10",
+    "architecture": "i386",
+    "title": "FreeCAD YT",
+    "hooks": {
+        "freecad": {
+            "scope": "freecad",
+            "apparmor": "scope-security.json"
+        }
+    },
+    "version": "0.3",
+    "maintainer": "Jonathan Wiedemann <wood.galaxy@gmail.com>"
+}

@@ -1,0 +1,17 @@
+{
+    "maxResults": "5",
+    "playlists": [
+        {
+            "id": "PLsXcagmgXVDePhm31JX_QZLTNaoiZtZcF",
+            "reminder": "Fr: FreeCAD-France playlist"
+        },
+        {
+            "id": "PLknytA7Q8cCheF9yXAAD251epJp7g3msk",
+            "reminder": "ch: classicalexperience"
+        },
+        {
+            "id": "PLDDB254F1F39B2208",
+            "reminder": "ch: bpanther, bach videos"
+        }
+    ]
+}
